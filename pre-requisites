@@ -1,0 +1,8 @@
+Latest version of Python
+---------------
+OpenCV module - Can be installed by the command "pip install opencv-python"
+Pyzbar module - Can be installed by the command "pip install pyzbar"
+Pybase64 module - Can be installed by the command "pip install pybase64"
+MyQR module - Can be installed by the command "pip install MyQR"
+---------------
+If pip is not updated, update it by this command "python -m pip install --upgrade pip"
